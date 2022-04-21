@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on 
 
-[🚀: go-pdu](https://github.com/pdupub/go-pdu) <br>
-[🚢: pdu doc](https://github.com/pdupub/Documentation) 
+* 🚢: [PDU White Paper v2 / Decentralized Social Network Service / 去中心化社交系统](https://github.com/pdupub/Documentation) 
+* 🚀: [go-pdu / Golang implementation of PDU](https://github.com/pdupub/go-pdu) <br>
 ...
 
 
 - 📫 How to reach me: 
 
-[🚀: Site](https://pdu.pub) <br>
-[🐦: Twitter](https://twitter.com/PDUPUB) <br>
-[📫: Email](mailto:liupeng@tataufo.com)
+[🚀: Site : https://pdu.pub](https://pdu.pub) <br>
+[🐦: Twitter : https://twitter.com/PDUPUB](https://twitter.com/PDUPUB) <br>
+[📫: Email : liupeng@tataufo.com](mailto:liupeng@tataufo.com)
