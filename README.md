@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on 
 
-* 🚢: [PDU White Paper v2 / Decentralized Social Network Service / 去中心化社交系统](https://github.com/pdupub/Documentation) 
+* 🚢: [PDU White Paper v2 / Decentralized Social Network Service / 去中心化社交系统](https://pdu.pub/) 
 * 🚀: [go-pdu / Golang implementation of PDU](https://github.com/pdupub/go-pdu) <br>
 ...
 
@@ -13,4 +13,4 @@
 
 [🚀: Site : https://pdu.pub](https://pdu.pub) <br>
 [🐦: Twitter : https://twitter.com/PDUPUB](https://twitter.com/PDUPUB) <br>
-[📫: Email : liupeng@tataufo.com](mailto:liupeng@tataufo.com)
+[📫: Email : pdupub@gmail.com](mailto:pdupub@gmail.com)
