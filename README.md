@@ -10,7 +10,7 @@
 
 
 - 📫 How to reach me: 
-
+[📫: Telegram : https://t.me/pdupub](https://t.me/pdupub) <br>
 [🚀: Site : https://pdu.pub](https://pdu.pub) <br>
 [🐦: Twitter : https://twitter.com/PDUPUB](https://twitter.com/PDUPUB) <br>
 [📫: Email : pdupub@gmail.com](mailto:pdupub@gmail.com)
