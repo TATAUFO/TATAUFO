@@ -2,9 +2,9 @@
 
 ### 🔭 I’m currently working on 
 * 🚢: PDU White Paper v3
-  - [A peer-to-peer social networking service](https://pdu.pub/docs/en/WhitePaperV3.html)
-  - [基于点对点的社交网络系统](https://pdu.pub/docs/zh/WhitePaperV3.html)
-* 🚀: [P.D.U iOS beta App on TestFlight](https://testflight.apple.com/join/FqQGxhbn)
+  - [A peer-to-peer social networking service](https://peng.pdu.pub/docs/en/WhitePaperV3.html)
+  - [基于点对点的社交网络系统](https://peng.pdu.pub/docs/zh/WhitePaperV3.html)
+* 🚀: [P.D.U on Appstore](https://apps.apple.com/us/app/p-d-u/id6443928730)
 * 🚀: [go-pdu / Golang implementation of PDU](https://github.com/pdupub/go-pdu) <br>
 
 
